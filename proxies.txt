@@ -1,0 +1,6 @@
+# Example Proxy Format
+
+# Proxy: <ip_address>:<port>
+# Example:
+# Proxy: 192.168.1.1:8080
+# Proxy: 10.0.0.2:3128
